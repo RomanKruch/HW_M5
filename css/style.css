@@ -98,7 +98,7 @@ main {
     width: 104px;
     height: 104px;
     background-color: #1abc9c;
-    background-image: url(../img/ikon/angle-left.svg);
+    background-image: url(../img/icon/angle-left.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -115,7 +115,7 @@ main {
     width: 104px;
     height: 104px;
     background-color: #1abc9c;
-    background-image: url(../img/ikon/angle-right.svg);
+    background-image: url(../img/icon/angle-right.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -231,15 +231,15 @@ main {
 
 
 .like--button {
-    background-image: url(../img/ikon/heard.png);
+    background-image: url(../img/icon/heard.png);
 }
 
 .share--button {
-    background-image: url(../img/ikon/shuffle.png);
+    background-image: url(../img/icon/shuffle.png);
 }
 
 .clock--button {
-    background-image: url(../img/ikon/clock.png);
+    background-image: url(../img/icon/clock.png);
 }
 
 .last--button {
@@ -250,7 +250,7 @@ main {
     color: #fff;
     text-transform: uppercase;
     background-color: #323232;
-    background-image: url(../img/ikon/cart.svg);
+    background-image: url(../img/icon/cart.svg);
     background-position: 12px;
 }
 
